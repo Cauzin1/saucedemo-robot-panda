@@ -27,7 +27,7 @@ Finalizar Compra Com Sucesso
     Click Button    id:checkout
 
     Wait Until Element Is Visible    id:first-name    timeout=5s
-    Input Text      id:first-name    João
+    Input Text      id:first-name    JoãoCabralBrabo
     Input Text      id:last-name     QA
     Input Text      id:postal-code   12345
 
