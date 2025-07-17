@@ -43,7 +43,7 @@ saucedemo-robot-panda/
 ├── requirements.txt # Lista de dependências
 └── README.md # Este arquivo
 
-### 📁 Estrutura e Organização Adiciona
+### 📁 Estrutura e Organização Adicional
 
 O projeto também conta com um arquivo `resources/keywords.robot`, coloquei ele só para mostrar que é possível fazer melhorias no código no futuro. Mas explicando a utilidade dele seria para centralizar palavras-chave personalizadas, variáveis ou setups que podem ser compartilhados entre múltiplos testes. Isso é bom quando temos muitos testes e queremos evitar repetição, ou precisamos reaproveitar fluxos como login, logout, setup, etc. Também pode ser bem útil para projetos a longo prazo e para mais de uma equipe. Enfim, coloquei só como um extra isso, mas não interfere em nada no código também não.
 
