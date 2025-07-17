@@ -1,4 +1,4 @@
-# 🤖 Desafio de Automação de Testes - QA Jr. | Panda Vídeo
+# 🤖 Desafio de Automação de Testes - QA Jr. | Panda Vídeo 🐼
 
 **Thomás Sousa Causin Alves – Analista de QA Jr**
 
